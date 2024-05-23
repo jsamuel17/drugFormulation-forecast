@@ -1,0 +1,3 @@
+[submodule "drug_exp_compatibility_"]
+	path = drug_exp_compatibility_
+	url = https://github.com/phuongnvp/drug_exp_compatibility
